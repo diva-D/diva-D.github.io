@@ -33,7 +33,7 @@ paginate: 5 # amount of posts to show
 
 author:
   name   : "David Gentile"
-  avatar : "/assets/david-gentile-headshot.1.jpeg"
+  avatar : "/assets/images/david-gentile-headshot.1.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   email  : # optional
   uri    : "http://davidgentile.net"
