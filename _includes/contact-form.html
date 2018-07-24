@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <style>
+            form {
+                font-family: 'Courier New', Courier, monospace;
+                background-color: #FFF !important;
+            }
+            input, textarea {
+                display: block;
+                width: 500px;
+                height: 80px;
+                border: 3px solid #333;
+                font-size: 14px;
+                margin: 10px auto;
+            }
+
+            input {
+                height: 30px;
+            }
+            button {
+                border: 3px solid #333;
+                width: 130px;
+                height: 50px;
+                font-size: 14px;
+            }
+
+            #contact-form-heading {
+                padding-bottom: 0; 
+                border-bottom: none;
+            }
+            
+            #contact-form {
+                margin: 0 auto;
+                text-align: center;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div id="contact-form">
+            <h2 id="contact-form-heading">Get in touch</h2>
+            <form action="https://formspree.io/davidgentile@gmail.com" method="POST">
+                <input type="email" name="_replyto" placeholder="Your email">
+                <textarea name="message" placeholder="Your message"></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+
+    </body>
+</html>
