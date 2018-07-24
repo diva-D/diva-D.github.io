@@ -13,16 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: David Gentile | Web Developer
+email: davidgentile@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal and portfolio website for David Gentile, Web Developer.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://davidgentile.net" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: dfgentile
+github_username:  diva-D
 
 # Build settings
 markdown: kramdown
@@ -30,8 +28,18 @@ theme:
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
-
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum" "sunrise"
 paginate: 5 # amount of posts to show
+
+author:
+  name   : "David Gentile"
+  avatar : "/assets/david-gentile-headshot.1.jpeg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  email  : # optional
+  uri    : "http://davidgentile.net"
+  home   : # null (default), "absolute or relative url to link to author home"
+  github : "diva-D"
+  twitter: "dfgentile"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
