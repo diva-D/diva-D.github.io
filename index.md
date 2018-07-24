@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/adrien-ledoux-206611-unsplash.jpg
   cta_label: "Hire Me!"
   cta_url: "/about/"
-  caption: "Photo by Adrien Ledoux on [**Unsplash**](https://unsplash.com/photos/k_T9Zj3SE8k)"
+  # caption: "Photo by Adrien Ledoux on [**Unsplash**](https://unsplash.com/photos/k_T9Zj3SE8k)"
 excerpt: "Full Stack Web Developer, Designer, Human"
 intro:
   - excerpt: "Hi. I'm a full stack web developer who loves designing unique and beautiful web experiences. You can find out more about my work, my thoughts, and myself below."
