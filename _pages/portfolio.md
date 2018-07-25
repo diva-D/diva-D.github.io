@@ -20,5 +20,5 @@ gallery:
 ---
 
 
-Click image to enlarge image
+Click image to enlarge
 {% include gallery class="full" %}
