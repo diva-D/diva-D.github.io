@@ -2,17 +2,15 @@
 layout: single
 title: About
 permalink: /about/
+author_profile: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+In the very near future you will find my full CV here.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+To say hello, I am a full stack web developer currently based out of Charlotte, NC but "home" is Auckland, New Zealand.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am currently a student of the [Bloc.io](http://bloc.io) Full Stack Web Developer bootcamp. I am a mostly self-taught coder who is looking to move into this industry full time.
 
+To learn more about me, click on the social media links on the under my bio.
 
-[jekyll-organization]: https://github.com/jekyll
+{% include contact-form.html %}
