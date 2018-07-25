@@ -1,23 +1,27 @@
 <html>
     <head>
         <style>
-            form {
-                font-family: 'Courier New', Courier, monospace;
-                background-color: #FFF !important;
-            }
-            input, textarea {
+            .contact-form-input {
                 display: block;
+                font-family: 'Courier New', Courier, monospace;
                 width: 500px;
                 height: 80px;
                 border: 3px solid #333;
                 font-size: 14px;
                 margin: 10px auto;
             }
+            
+            @media (max-width: 561px) {
+                .contact-form-input{
+                    width: 90%;
+                }
+            }
 
-            input {
+            input.contact-form-input {
                 height: 30px;
             }
-            button {
+            #contact-form-button {
+                font-family: 'Courier New', Courier, monospace;
                 border: 3px solid #333;
                 width: 130px;
                 height: 50px;
@@ -32,6 +36,7 @@
             #contact-form {
                 margin: 0 auto;
                 text-align: center;
+                background-color: #FFF
             }
 
         </style>
@@ -39,10 +44,10 @@
     <body>
         <div id="contact-form">
             <h2 id="contact-form-heading">Get in touch</h2>
-            <form action="https://formspree.io/davidgentile@gmail.com" method="POST">
-                <input type="email" name="_replyto" placeholder="Your email">
-                <textarea name="message" placeholder="Your message"></textarea>
-                <button type="submit">Send</button>
+            <form action="https://formspree.io/davidgentile@gmail.com" method="POST" id="contact-form">
+                <input type="email" name="_replyto" placeholder="Your email" class="contact-form-input">
+                <textarea name="message" placeholder="Your message" class="contact-form-input"></textarea>
+                <button type="submit" id="contact-form-button">Send</button>
             </form>
         </div>
 
