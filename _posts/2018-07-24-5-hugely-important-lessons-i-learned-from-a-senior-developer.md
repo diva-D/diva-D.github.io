@@ -3,6 +3,7 @@ comments: true
 header:
   image: /assets/images/post-2018-07-24-header-unsplash.jpg
   caption: "Image by [Nik MacMillan](https://unsplash.com/@nikarthur) on Unsplash"
+permalink: /blog/5-hugely-important-lessons-i-learned-from-a-senior-developer
 ---
 > You can't just do the same projects as everyone else. You have to do something *different* to stand out and be noticed.
 
