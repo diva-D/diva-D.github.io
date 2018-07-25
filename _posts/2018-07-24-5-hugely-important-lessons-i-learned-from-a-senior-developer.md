@@ -1,3 +1,6 @@
+---
+comments: true
+---
 > You can't just do the same projects as everyone else. You have to do something *different* to stand out and be noticed.
 
 I'm not much of a networking kind of guy. I was in sales for a little while and I think it ruined the concept for me. You learn (most) everyone is just out for how they can get ahead and not actually interested in building a relationship.
