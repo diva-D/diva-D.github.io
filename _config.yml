@@ -39,7 +39,7 @@ author:
   avatar    : "/assets/images/david-gentile-headshot.1.jpeg"
   bio       : "Full Stack Web Developer, Designer, Human"
   email     : # optional
-  uri       : "http://davidgentile.net"
+  uri       : "http://davidgentile.net/blog/"
   home      : # null (default), "absolute or relative url to link to author home"
   location  : "Charlotte, NC"
   linkedin  : "davidfgentile"
