@@ -1,5 +1,8 @@
 ---
 comments: true
+header:
+  image: /assets/images/post-2018-07-24-header-unsplash.jpg
+  caption: "Image by [Nik MacMillan](https://unsplash.com/@nikarthur) on Unsplash"
 ---
 > You can't just do the same projects as everyone else. You have to do something *different* to stand out and be noticed.
 
@@ -56,7 +59,7 @@ It's where you can contribute to open-source projects, or create your own. It's 
 Some ways he suggested someone new can get involved are:
 - **Blogging about topics you’re learning about**
 
-  The best way to learn something is to teach it. It forces you to really make sure you understand a concept fully so that you can then impart that knowledge onto someone else. You don't have to be an expert in all things web dev to teach! You simply have to be ahead of the person your're trying to teach - even if it's just one day ahead. Because you were in their same position so recently you understand what they will struggle with and can build that into how you teach
+  The best way to learn something is to teach it. It forces you to really make sure you understand a concept fully so that you can then impart that knowledge onto someone else. You don't have to be an expert in all things web dev to teach! You simply have to be ahead of the person you are trying to teach - even if it's just one day ahead. Because you were in their same position so recently you understand what they will struggle with and can build that into how you teach
 
 - **Going to local meetups**
 
@@ -82,7 +85,7 @@ In fact, it shows employers a couple things: you’ve had a job, you’ve worked
 
 So even if your past has nothing to do with development don’t view it as something to hide. What he said is instead you need to craft a narrative about how each bit of your puzzle has lead you to where you are today. Highlight how those skills you picked up can be assets in a new career.
 
-## 6) Be couragous
+## 6) Be courageous
 
 Hey you said there was only 5 things?? I did, but another thing to keep in mind is always over deliver! Now we're at 7 things.
 
