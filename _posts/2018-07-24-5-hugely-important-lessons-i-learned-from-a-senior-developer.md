@@ -20,7 +20,7 @@ First off, he hit me with some hard truth about working in a real firm. On a typ
 
 This process includes meetings with the team, determining estimates, reviewing past work, and so on as the project progresses through a "sprint" (a 1-4 week period dedicated to producing a concrete outcome). 
 
-He said this can be tough for new people who come from coding all the time. Instead you now have to be in meetings and planning sessions most of the time. However, learning the skills of communication, working well in a team, and thinking about the bigger business process is critical to succeeding in this type of industry. 
+He said this can be tough for new people who come from coding all day. Instead you now have to be in meetings and planning sessions most of the time. However, learning the skills of communication, working well in a team, and thinking about the bigger business process is critical to succeeding in this type of industry. 
 
 Because at the end of the day it's about shipping a final product, not what you would rather work on all day.
 
@@ -43,4 +43,50 @@ So how do you go beyond being the millionth person to make a reddit clone? Here'
   The easiest way to do that? **Make something you'd use**. Have a special diet and need a shopping list? Create a recipe app that automatically creates a shopping list based on the menu for the week. It's easy to stay motivated when you care about the outcome.
 
 ## 3) Get involved in the community
+
+As easy as it is to stay comfortable coding by yourself and observing everything from the outside, to really become a developer you need to be involved in the development community. 
+
+It's where all the action is. It's where you'll find your next job. Your next client. Your next business partner.
+
+It's where you can contribute to open-source projects, or create your own. It's where you'll market your great app idea. Basically it is what gives life to your career and projects.
+
+Some ways he suggested someone new can get involved are:
+- **Blogging about topics you’re learning about**
+
+  The best way to learn something is to teach it. It forces you to really make sure you understand a concept fully so that you can then impart that knowledge onto someone else. You don't have to be an expert in all things web dev to teach! You simply have to be ahead of the person your're trying to teach - even if it's just one day ahead. Because you were in their same position so recently you understand what they will struggle with and can build that into how you teach
+
+- **Going to local meetups**
+
+  This is probably one of the best ways to get involved as the face-to-face interactions are still the best form of getting to know people and getting them to know you. He said if you stand out in those situations, hiring managers (like himself) remember you and think about you when looking for new talent, or if friends at other companies are looking too.
+
+- **Contributing to forums/chat groups**
+
+  I'm currently involved with a couple web development Slack groups. These groups are great for people to share information, ask questions, or simply 'hang out' online. The key is to not just lurk, but to be active in the discussions. Don't try to act smarter than you are. Be honest, have fun, and contribute to the conversation. People will remember you.
+
+## 4) Start applying to jobs before you think you’re ready to
+
+This one hit me hard. I hate doing things before I feel I can do them perfectly. My daughter is like this. It took her almost two years to start talking. But now... 🙄.
+
+But by applying "early" you will learn what companies want as you interact with them. He said the fact is you can probably get a job a lot sooner than you think you can if you show you have initiative, confidence, a willingness to learn quickly, and are honest about what you do/don’t know. 
+
+At worst they say no. But they might say yes!
+
+## 5) Everything you’ve done in life is experience - showcase it
+
+I have had nothing to do with the development industry before now. I studied business in college, I worked in a cafe, an Aboriginal Art Centre, in sales, insurance… not exactly a CS degree. But he told me none of that is a negative. 
+
+In fact, it shows employers a couple things: you’ve had a job, you’ve worked in business and can understand that process, you’ve picked up skills (such as public speaking and communication) that other developers can lack, and you bring a diversity of thinking. 
+
+So even if your past has nothing to do with development don’t view it as something to hide. What he said is instead you need to craft a narrative about how each bit of your puzzle has lead you to where you are today. Highlight how those skills you picked up can be assets in a new career.
+
+## 6) Be couragous
+
+Hey you said there was only 5 things?? I did, but another thing to keep in mind is always over deliver! Now we're at 7 things.
+
+But in all seriousness this was the biggest takaway for me. You just have to have the courage to ask for help. I think this community is particularly generous when it comes to assisting those new to the game.
+
+Networking is not natural to me but just like my coding skills it’s something I need to practice. And just like coding, the more you do it the easier it gets.
+
+
+If you liked what you read please take the time to share and comment below. Thanks for reading!
 
