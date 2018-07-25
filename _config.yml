@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal and portfolio website for David Gentile, Web Developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://davidgentile.net" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "diva-D/diva-D.github.io"
 twitter_username: dfgentile
 github_username:  diva-D
 
@@ -34,14 +35,16 @@ paginate_path: _pages/blog/page:num
 include: ["_pages"]
 
 author:
-  name   : "David Gentile"
-  avatar : "/assets/images/david-gentile-headshot.1.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  email  : # optional
-  uri    : "http://davidgentile.net"
-  home   : # null (default), "absolute or relative url to link to author home"
-  github : "diva-D"
-  twitter: "dfgentile"
+  name      : "David Gentile"
+  avatar    : "/assets/images/david-gentile-headshot.1.jpeg"
+  bio       : "Full Stack Web Developer, Designer, Human"
+  email     : # optional
+  uri       : "http://davidgentile.net"
+  home      : # null (default), "absolute or relative url to link to author home"
+  location  : "Charlotte, NC"
+  linkedin  : "davidfgentile"
+  github    : "diva-D"
+  twitter   : "dfgentile"
 
 defaults:
   # _posts
