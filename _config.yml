@@ -51,14 +51,15 @@ defaults:
   - scope:
       path: ""
       type: posts
-      values:
+    values:
       layout: single
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
-      permalink: /blog/:title
+
+permalink: /blog/:title
 
 comments:
   provider: "disqus"
