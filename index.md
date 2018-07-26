@@ -10,9 +10,9 @@ header:
   cta_label: "Hire Me!"
   cta_url: "/about/"
   # caption: "Photo by Adrien Ledoux on [**Unsplash**](https://unsplash.com/photos/k_T9Zj3SE8k)"
-excerpt: "Full Stack Web Developer, Designer, Human"
+excerpt: "Web Developer, Designer, Human"
 intro:
-  - excerpt: "Hi. I'm a full stack web developer who loves designing unique and beautiful web experiences. You can find out more about my work, my thoughts, and myself below."
+  - excerpt: "Hi. I'm a web developer who loves designing unique and beautiful web experiences. You can find out more about my work, my thoughts, and myself below."
 feature_row:
   - image_path: /assets/images/portfolio2-unsplash.jpg # Photo by Antenna on Unsplash
     alt: ""

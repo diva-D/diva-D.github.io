@@ -11,6 +11,6 @@ To say hello, I am a full stack web developer currently based out of Charlotte, 
 
 I am currently a student of the [Bloc.io](http://bloc.io) Full Stack Web Developer bootcamp. I am a mostly self-taught coder who is looking to move into this industry full time.
 
-To learn more about me, click on the social media links on the under my bio.
+To learn more about me, click on the social media links by my bio.
 
 {% include contact-form.html %}

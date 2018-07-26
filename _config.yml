@@ -37,7 +37,7 @@ include: ["_pages"]
 author:
   name      : "David Gentile"
   avatar    : "/assets/images/david-gentile-headshot.1.jpeg"
-  bio       : "Full Stack Web Developer, Designer, Human"
+  bio       : "Web Developer, Designer, Human"
   email     : # optional
   uri       : "http://davidgentile.net/blog/"
   home      : # null (default), "absolute or relative url to link to author home"
@@ -51,13 +51,14 @@ defaults:
   - scope:
       path: ""
       type: posts
-    values:
+      values:
       layout: single
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
+      permalink: /blog/:title
 
 comments:
   provider: "disqus"
