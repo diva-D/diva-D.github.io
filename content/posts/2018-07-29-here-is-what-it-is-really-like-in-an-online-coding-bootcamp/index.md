@@ -1,6 +1,7 @@
 ---
 title: Here Is What It Is Really Like In An Online Coding Bootcamp
 date: 2018-07-29
+slug: online-bootcamp
 ---
 
 ## Insights and answering the question "is it worth it?"

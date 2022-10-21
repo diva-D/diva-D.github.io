@@ -1,6 +1,7 @@
 ---
 title: "5 Hugely Important Lessons I Learned From A Senior Developer"
 date: 2018-07-24
+slug: 5-lessons
 ---
 
 > You can't just do the same projects as everyone else. You have to do something _different_ to stand out and be noticed.
