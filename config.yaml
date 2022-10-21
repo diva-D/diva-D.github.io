@@ -1,4 +1,4 @@
-baseURL: "http://davidgentile.net/"
+baseURL: "http://diva-D.github.io"
 languageCode: "en-us"
 title: "David Gentile"
 theme: "PaperMod"
@@ -11,7 +11,7 @@ params:
       - Building e-commerce integrations with Python, Serverless, AWS, APIs, and more.
 
       - 
-       
+
       - Exploring the concepts of Productivity and the future of how we work.
 
   socialIcons: # optional
