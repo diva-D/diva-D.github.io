@@ -1,0 +1,22 @@
+baseURL: "http://davidgentile.net/"
+languageCode: "en-us"
+title: "David Gentile"
+theme: "PaperMod"
+params:
+  homeInfoParams:
+    Title: "Developer & Curious Mind"
+    Content: >
+      Co-Founder [Kingfisher Systems](https://kingfishersystems.com.au/)
+
+      - Building e-commerce integrations with Python, Serverless, AWS, APIs, and more.
+
+      - 
+       
+      - Exploring the concepts of Productivity and the future of how we work.
+
+  socialIcons: # optional
+    - name: "Twitter"
+      url: "https://twitter.com/dfgentile"
+
+    - name: "Github"
+      url: "https://www.github.com/diva-D"

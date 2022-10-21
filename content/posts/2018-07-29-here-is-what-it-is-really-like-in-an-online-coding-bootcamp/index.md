@@ -1,8 +1,8 @@
 ---
-header:
-  image: /assets/images/post-2018-07-28-header-man-computer-unsplash.jpg
-  caption: "Image by [Avi Richards](https://unsplash.com/@avirichards) on Unsplash"
+title: Here Is What It Is Really Like In An Online Coding Bootcamp
+date: 2018-07-29
 ---
+
 ## Insights and answering the question "is it worth it?"
 
 To kick off, I want to first discuss what it is like learning web development today.
@@ -11,7 +11,7 @@ There is a lot of material out there. **A lot.**
 
 The review site, class-central.com, [lists 161 courses](https://www.class-central.com/subject/web-development) in Web Development alone. If you expand to courses in Programming and Computer Science that lists grows to 1,771.
 
-This plethora of material is amazing for those of us wanting to learn web development. There is a course, or tutorial, or blog post, or stack overflow answer for everything you want to know. 
+This plethora of material is amazing for those of us wanting to learn web development. There is a course, or tutorial, or blog post, or stack overflow answer for everything you want to know.
 
 But this cornucopia of knowledge presents its own challenges.
 
@@ -29,7 +29,7 @@ So I would complete a tutorial and feel pretty damn good. I got this! Then I wou
 
 I call this cycle "**tutorial purgatory**". Sure, I was "doing" something, but I wasn't going anywhere. I would repeat the same material, just in a different format. I would always say "just one more...". I was a code junkie!
 
-I realised that I could not continue doing this cycle. I needed **structure**. 
+I realised that I could not continue doing this cycle. I needed **structure**.
 
 I also needed someone who was in the industry - writing real code - to tell me whether I was writing good code or not. But where would I find both the structure and mentorship I needed?
 
@@ -45,7 +45,7 @@ Coming from doing dozens of tutorials and courses, I had a fairly large set of e
 
 The fact is though, you have to do that with any course you take. The beauty of this field is that you can dive deep into a topic. Sometimes it takes me a few hours of reading many articles until an idea finally "clicks".
 
-What is more important is having a clear direction about where you're going. 
+What is more important is having a clear direction about where you're going.
 
 The bootcamp lays out a roadmap for you and each thing builds on the previous one. They have done the heavy lifting of figuring out what path you need to take to go from newbie to job ready.
 
@@ -59,7 +59,7 @@ Having an outside party review your work means you can't bullshit yourself.
 
 As part of each "checkpoint" you have to answer questions about the topic. A technical team checks your answers to ensure you fully understand the topic.
 
-If you don't answer correctly or in fill in enough detail, they will ask you for a re-submission. No skipping ahead buddy. 
+If you don't answer correctly or in fill in enough detail, they will ask you for a re-submission. No skipping ahead buddy.
 
 To move on, you have to get everything right. Meaning you can't move over the parts you don't like or don't understand.
 
@@ -105,12 +105,12 @@ At a recent meetup I attended, speaker [John Potts](https://johndpotts.github.io
 
 He spoke about bootcamps and how he felt they weren't always necessary. He said you need to ask yourself:
 
-*   Do I have the discipline to stay focused and move forward every day?
-*   Can I find my own mentors and community to connect with and move me forward?
-*   Am I prepared for the job search and having to build my own network?
+- Do I have the discipline to stay focused and move forward every day?
+- Can I find my own mentors and community to connect with and move me forward?
+- Am I prepared for the job search and having to build my own network?
 
 Doing a bootcamp doesn't mean you lack any of the qualities above, but it makes the process a lot easier. It also provide that commitment you need to move from wannabe-developer to an actual developer.
 
-I found I needed to make a formal commitment and decided a bootcamp was the best option for me. It might not be for you. 
+I found I needed to make a formal commitment and decided a bootcamp was the best option for me. It might not be for you.
 
 The important thing is that you find a process that moves you forward each day. That excites you. Then never stop.
