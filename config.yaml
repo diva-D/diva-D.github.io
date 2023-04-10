@@ -4,15 +4,11 @@ title: "David Gentile"
 theme: "PaperMod"
 params:
   homeInfoParams:
-    Title: "Developer & Curious Mind"
+    Title: "Developer & AI Accelerant"
     Content: >
-      Co-Founder [Kingfisher Systems](https://kingfishersystems.com.au/)
+      Python, JavaScript, and Google Apps Script developer.
 
-      - Building e-commerce integrations with Python, Serverless, AWS, APIs, and more.
-
-      - 
-
-      - Exploring the concepts of Productivity and the future of how we work.
+      - Building [PromptList.io](https://promptlist.io), curated prompts for AI tools like ChatGPT.
 
   socialIcons: # optional
     - name: "Twitter"
