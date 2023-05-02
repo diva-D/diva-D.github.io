@@ -111,12 +111,6 @@
       src="https://www.google.com/recaptcha/api.js"
       type="text/javascript"
     ></script>
-    <!-- Memberstack webflow package -->
-    <script
-      data-memberstack-app="app_clg0a028e001i0uiignst8uye"
-      src="https://static.memberstack.com/scripts/v1/memberstack.js"
-      type="text/javascript"
-    ></script>
     <script
       src="https://js.hcaptcha.com/1/api.js?render=explicit&amp;onload=_hcaptchaReady"
       async=""
@@ -507,14 +501,13 @@
       }
     </style>
     <style>
-      .ms-test-label,
-      .ms-r24dtneh3bkecfm2qs5vgh {
+      .ms-test-label {
         z-index: 2000000;
         position: fixed;
         left: 0%;
         top: auto;
         right: 0%;
-        bottom: 10px;
+        bottom: -10000px;
         width: 89px;
         margin-right: auto;
         margin-left: auto;
@@ -567,7 +560,7 @@
             id="wf-form-Waitlist"
             name="wf-form-Waitlist"
             data-name="Waitlist"
-            method="get"
+            method="post"
             data-wf-flow="aff23ed811b8f72eb008a61b"
             aria-label="Waitlist"
           >
@@ -622,25 +615,21 @@
         // Get the email input value by name
         var email = form.elements["Email"].value;
 
-        // Create an object to store the form data
-        var data = {
-          form: "waitlist",
-          email: email,
-          timestamp: Date.now(),
-        };
+        var formData = new URLSearchParams();
+        formData.append("form", "waitlist");
+        formData.append("email", email);
+        formData.append("timestamp", Date.now());
 
         // Create an options object for the fetch request
         var options = {
-          method: "POST", // Set the request method to POST
-          headers: {
-            "Content-Type": "application/json", // Set the content type to JSON
-          },
-          body: JSON.stringify(data), // Convert the data object to a JSON string
+          redirect: "follow",
+          method: "POST",
+          body: formData,
         };
 
         // Send the fetch request to the endpoint with the options object
         fetch(
-          "https://hooks.airtable.com/workflows/v1/genericWebhook/appptxQKwglof6VfC/wfla9tP7Lu8pimXzO/wtr73dWU4Ri3zNKnk",
+          "https://script.google.com/macros/s/AKfycbwselnM5YSDZm1DAx7fdR490M3fDxrn1eMzoVXFb04zLXpMO6Rt-Kvd34_HcZfjSENQ/exec",
           options
         )
           .then(function (response) {
